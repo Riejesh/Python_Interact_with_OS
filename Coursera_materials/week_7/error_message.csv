@@ -1,0 +1,4 @@
+Error,Count
+Connection to DB failed,14
+Tried to add information to closed ticket,13
+Permission Denied,12
